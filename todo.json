@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "task": "쇼핑하기",
+    "priority": "높음",
+    "completed": true
+  },
+  {
+    "number": 2,
+    "task": "운동하기",
+    "priority": "보통",
+    "completed": false
+  },
+  {
+    "number": 3,
+    "task": "샤프 구매하기",
+    "priority": "낮음",
+    "completed": false
+  },
+  {
+    "number": 4,
+    "task": "코딩 과제 제출",
+    "priority": "보통",
+    "completed": true
+  },
+  {
+    "number": 5,
+    "task": "집가고싶다...",
+    "priority": "높음",
+    "completed": false
+  }
+]
